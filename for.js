@@ -98,6 +98,7 @@
 
 // Give me the lists of odd Number from 200 to 300 divisible by 3 and 5;
 //----------------------------------------------------------------------
+
 // for(let number = 200; number <= 300; number++){
 //     if(number % 2 !== 0){
 //         // 3 and 5 divisible numbers list here:

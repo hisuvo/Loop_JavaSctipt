@@ -46,3 +46,15 @@ Suntask-7:
 Implement a countdown timer that counts down from 21 to 15.
 
 ---
+
+## Brack
+
+## Continue (that's mean skip me)
+
+    for(let number = 15; number > 5; number--){
+        console.log("number ", number)
+        if(number % 2 !== 0){
+            continue; // skip
+        }
+        console.log(number)
+    }
